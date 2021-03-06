@@ -1,5 +1,5 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,StreamingSE
-DOMAIN-SUFFIX,bilibili.com,StreamingSE
-DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
+DOMAIN-SUFFIX,biliapi.net,Bilibili
+DOMAIN-SUFFIX,bilibili.com,Bilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,Bilibili
